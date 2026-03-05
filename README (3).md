@@ -29,17 +29,6 @@ This project analyses the social network of the TV series **Friends (Season 1)**
 ├── friends_sna_weeks5_7.ipynb   # Jupyter notebook — Weeks 5–7
 ├── friends_episodes.txt         # Raw dataset of character interactions
 ├── friends_communities.gexf     # Network export for Gephi Lite visualization
-├── friends_network.png          # Output: network visualisation
-├── friends_degree_bar.png       # Output: weighted degree bar chart
-├── cdf_cc.png                   # Output: CDF of clustering coefficients
-├── cdf_nb_cc.png                # Output: CDF of neighbour clustering
-├── cdf_comparison.png           # Output: side-by-side CDF comparison
-├── week5_centrality.png         # Output: centrality bar plots
-├── week5_scatter.png            # Output: betweenness vs PageRank scatter
-├── week6_community_sizes.png    # Output: community size distributions
-├── week6_community_graph.png    # Output: network coloured by community
-├── week7_link_prediction.png    # Output: top predicted links bar plots
-├── week7_cn_vs_aa_scatter.png   # Output: CN vs AA scatter plot
 └── README.md                    # This file
 ```
 

@@ -1,0 +1,926 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2026-04-10">
+    <creator>NetworkX 3.6.1</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="community" type="long" />
+    </attributes>
+    <nodes>
+      <node id="Monica" label="Monica">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </node>
+      <node id="Joey" label="Joey">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="Chandler" label="Chandler">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="Phoebe" label="Phoebe">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </node>
+      <node id="Ross" label="Ross">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </node>
+      <node id="Rachel" label="Rachel">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="waitress" label="waitress">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="LeonardGreen" label="LeonardGreen">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </node>
+      <node id="Paul" label="Paul">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="Barry" label="Barry">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="Franny" label="Franny">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </node>
+      <node id="Marsha" label="Marsha">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </node>
+      <node id="Carol" label="Carol">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </node>
+      <node id="Judy" label="Judy">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </node>
+      <node id="Jack" label="Jack">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </node>
+      <node id="Susan" label="Susan">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </node>
+      <node id="Robbie" label="Robbie">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="DrOberman" label="DrOberman">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </node>
+      <node id="Mindy" label="Mindy">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="Paula" label="Paula">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </node>
+      <node id="Alan" label="Alan">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="Lizzy" label="Lizzy">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </node>
+      <node id="Allan" label="Allan">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </node>
+      <node id="Joanne" label="Joanne">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="Kiki" label="Kiki">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="Leslie_1_4" label="Leslie_1_4">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="nurseSizemore" label="nurseSizemore">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="pizzaGuy" label="pizzaGuy">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </node>
+      <node id="brattyBoy" label="brattyBoy">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </node>
+      <node id="neighbor" label="neighbor">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="visaCardGuy" label="visaCardGuy">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="Angela" label="Angela">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="Bob" label="Bob">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="Janice" label="Janice">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="Tony" label="Tony">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </node>
+      <node id="horribleWoman" label="horribleWoman">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="actress(Eva)" label="actress(Eva)">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="Aurora" label="Aurora">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="director_1_6" label="director_1_6">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="JillGoodacre" label="JillGoodacre">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="MrHeckles" label="MrHeckles">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </node>
+      <node id="Paolo" label="Paolo">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="Shelly" label="Shelly">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="auntLillian" label="auntLillian">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </node>
+      <node id="NanasNurse" label="NanasNurse">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </node>
+      <node id="Nana" label="Nana">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </node>
+      <node id="Andrea" label="Andrea">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="girl_1_8" label="girl_1_8">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="Lowell" label="Lowell">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="Brian" label="Brian">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="Terry" label="Terry">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="customer_1_9" label="customer_1_9">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="obsessionGirl" label="obsessionGirl">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="Marcel" label="Marcel">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </node>
+      <node id="David" label="David">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </node>
+      <node id="Max" label="Max">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </node>
+      <node id="Sandy_date" label="Sandy_date">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="funBobby" label="funBobby">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="kids" label="kids">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="girl_1_10" label="girl_1_10">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="comaGuy" label="comaGuy">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </node>
+      <node id="NoraBing" label="NoraBing">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="JayLeno" label="JayLeno">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="Syl" label="Syl">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </node>
+      <node id="receptionist_1_12" label="receptionist_1_12">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </node>
+      <node id="Roger" label="Roger">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="MrTribbiani" label="MrTribbiani">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="Ronni" label="Ronni">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="GloriaTribbiani" label="GloriaTribbiani">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="Kristen" label="Kristen">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </node>
+      <node id="Lorraine" label="Lorraine">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="waiter" label="waiter">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </node>
+      <node id="firemanDave" label="firemanDave">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </node>
+      <node id="Charlie" label="Charlie">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </node>
+      <node id="Ed" label="Ed">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </node>
+      <node id="firemanCharlie" label="firemanCharlie">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </node>
+      <node id="firemanEd" label="firemanEd">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </node>
+      <node id="MsTedlock" label="MsTedlock">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="Celia" label="Celia">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </node>
+      <node id="Wendy" label="Wendy">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </node>
+      <node id="MrCostilick" label="MrCostilick">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="Helen" label="Helen">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="Steve" label="Steve">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </node>
+      <node id="Fran" label="Fran">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="Ursula" label="Ursula">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </node>
+      <node id="Nina" label="Nina">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="MrDouglas" label="MrDouglas">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="H.HuntAsCustomer" label="H.HuntAsCustomer">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </node>
+      <node id="L.KenzleAsCustomer" label="L.KenzleAsCustomer">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </node>
+      <node id="receptionist_1_17" label="receptionist_1_17">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </node>
+      <node id="admissionsWoman" label="admissionsWoman">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="DrMitchel" label="DrMitchel">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </node>
+      <node id="DrRosen" label="DrRosen">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </node>
+      <node id="Betty" label="Betty">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </node>
+      <node id="PhoebeAsUrsula" label="PhoebeAsUrsula">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="auntIris" label="auntIris">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </node>
+      <node id="Barbara" label="Barbara">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="customer_1_19" label="customer_1_19">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="LuisaGianetti" label="LuisaGianetti">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </node>
+      <node id="Samantha" label="Samantha">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="SamanthasRoomate" label="SamanthasRoomate">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="Danielle" label="Danielle">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </node>
+      <node id="Bernice" label="Bernice">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="Sydney" label="Sydney">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="teacher" label="teacher">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </node>
+      <node id="fakeMonica" label="fakeMonica">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </node>
+      <node id="DrBalharar" label="DrBalharar">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </node>
+      <node id="creditCardGuy" label="creditCardGuy">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </node>
+      <node id="flightWoman" label="flightWoman">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </node>
+      <node id="director_1_21" label="director_1_21">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="Ethan" label="Ethan">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </node>
+      <node id="Gerston" label="Gerston">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="Petrie" label="Petrie">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="Santos" label="Santos">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="DrFranzblau" label="DrFranzblau">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </node>
+      <node id="Lydia" label="Lydia">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="Lydiasmother" label="Lydiasmother">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="nurse" label="nurse">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="babysfather" label="babysfather">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="worker" label="worker">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </node>
+      <node id="Ben" label="Ben">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </node>
+      <node id="Melanie" label="Melanie">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="flightRepres." label="flightRepres.">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="airlinePass." label="airlinePass.">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="Carl(date)" label="Carl(date)">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="Julie" label="Julie">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="Monica" target="Joey" id="0" />
+      <edge source="Monica" target="Chandler" id="1" />
+      <edge source="Monica" target="Phoebe" id="2" />
+      <edge source="Monica" target="Ross" id="3" />
+      <edge source="Monica" target="Rachel" id="4" />
+      <edge source="Monica" target="waitress" id="5" />
+      <edge source="Monica" target="Paul" id="6" />
+      <edge source="Monica" target="Franny" id="7" />
+      <edge source="Monica" target="Judy" id="8" />
+      <edge source="Monica" target="Jack" id="9" />
+      <edge source="Monica" target="Paula" id="10" />
+      <edge source="Monica" target="Alan" id="11" />
+      <edge source="Monica" target="Allan" id="12" />
+      <edge source="Monica" target="pizzaGuy" id="13" />
+      <edge source="Monica" target="Bob" id="14" />
+      <edge source="Monica" target="Angela" id="15" />
+      <edge source="Monica" target="Paolo" id="16" />
+      <edge source="Monica" target="auntLillian" id="17" />
+      <edge source="Monica" target="Nana" id="18" />
+      <edge source="Monica" target="NanasNurse" id="19" />
+      <edge source="Monica" target="Janice" id="20" />
+      <edge source="Monica" target="Sandy_date" id="21" />
+      <edge source="Monica" target="Marcel" id="22" />
+      <edge source="Monica" target="funBobby" id="23" />
+      <edge source="Monica" target="comaGuy" id="24" />
+      <edge source="Monica" target="Syl" id="25" />
+      <edge source="Monica" target="Roger" id="26" />
+      <edge source="Monica" target="Ronni" id="27" />
+      <edge source="Monica" target="MrTribbiani" id="28" />
+      <edge source="Monica" target="firemanDave" id="29" />
+      <edge source="Monica" target="Charlie" id="30" />
+      <edge source="Monica" target="Ed" id="31" />
+      <edge source="Monica" target="firemanCharlie" id="32" />
+      <edge source="Monica" target="firemanEd" id="33" />
+      <edge source="Monica" target="Wendy" id="34" />
+      <edge source="Monica" target="Steve" id="35" />
+      <edge source="Monica" target="MrHeckles" id="36" />
+      <edge source="Monica" target="receptionist_1_17" id="37" />
+      <edge source="Monica" target="admissionsWoman" id="38" />
+      <edge source="Monica" target="DrMitchel" id="39" />
+      <edge source="Monica" target="DrRosen" id="40" />
+      <edge source="Monica" target="LeonardGreen" id="41" />
+      <edge source="Monica" target="auntIris" id="42" />
+      <edge source="Monica" target="LuisaGianetti" id="43" />
+      <edge source="Monica" target="Sydney" id="44" />
+      <edge source="Monica" target="Danielle" id="45" />
+      <edge source="Monica" target="teacher" id="46" />
+      <edge source="Monica" target="fakeMonica" id="47" />
+      <edge source="Monica" target="creditCardGuy" id="48" />
+      <edge source="Monica" target="Ethan" id="49" />
+      <edge source="Monica" target="Carol" id="50" />
+      <edge source="Monica" target="nurse" id="51" />
+      <edge source="Monica" target="Ben" id="52" />
+      <edge source="Joey" target="Chandler" id="53" />
+      <edge source="Joey" target="Ross" id="54" />
+      <edge source="Joey" target="Rachel" id="55" />
+      <edge source="Joey" target="Phoebe" id="56" />
+      <edge source="Joey" target="Paul" id="57" />
+      <edge source="Joey" target="Alan" id="58" />
+      <edge source="Joey" target="nurseSizemore" id="59" />
+      <edge source="Joey" target="Angela" id="60" />
+      <edge source="Joey" target="Bob" id="61" />
+      <edge source="Joey" target="actress(Eva)" id="62" />
+      <edge source="Joey" target="director_1_6" id="63" />
+      <edge source="Joey" target="Paolo" id="64" />
+      <edge source="Joey" target="Jack" id="65" />
+      <edge source="Joey" target="obsessionGirl" id="66" />
+      <edge source="Joey" target="Sandy_date" id="67" />
+      <edge source="Joey" target="funBobby" id="68" />
+      <edge source="Joey" target="kids" id="69" />
+      <edge source="Joey" target="NoraBing" id="70" />
+      <edge source="Joey" target="MrTribbiani" id="71" />
+      <edge source="Joey" target="Ronni" id="72" />
+      <edge source="Joey" target="Roger" id="73" />
+      <edge source="Joey" target="GloriaTribbiani" id="74" />
+      <edge source="Joey" target="Lorraine" id="75" />
+      <edge source="Joey" target="Janice" id="76" />
+      <edge source="Joey" target="Ursula" id="77" />
+      <edge source="Joey" target="PhoebeAsUrsula" id="78" />
+      <edge source="Joey" target="Samantha" id="79" />
+      <edge source="Joey" target="SamanthasRoomate" id="80" />
+      <edge source="Joey" target="Mindy" id="81" />
+      <edge source="Joey" target="Sydney" id="82" />
+      <edge source="Joey" target="Danielle" id="83" />
+      <edge source="Joey" target="Marcel" id="84" />
+      <edge source="Joey" target="director_1_21" id="85" />
+      <edge source="Joey" target="Lydia" id="86" />
+      <edge source="Joey" target="Lydiasmother" id="87" />
+      <edge source="Joey" target="nurse" id="88" />
+      <edge source="Joey" target="Carol" id="89" />
+      <edge source="Joey" target="Ben" id="90" />
+      <edge source="Joey" target="Melanie" id="91" />
+      <edge source="Chandler" target="Phoebe" id="92" />
+      <edge source="Chandler" target="Ross" id="93" />
+      <edge source="Chandler" target="Rachel" id="94" />
+      <edge source="Chandler" target="Paul" id="95" />
+      <edge source="Chandler" target="Alan" id="96" />
+      <edge source="Chandler" target="Allan" id="97" />
+      <edge source="Chandler" target="nurseSizemore" id="98" />
+      <edge source="Chandler" target="neighbor" id="99" />
+      <edge source="Chandler" target="visaCardGuy" id="100" />
+      <edge source="Chandler" target="Janice" id="101" />
+      <edge source="Chandler" target="Aurora" id="102" />
+      <edge source="Chandler" target="JillGoodacre" id="103" />
+      <edge source="Chandler" target="Shelly" id="104" />
+      <edge source="Chandler" target="Andrea" id="105" />
+      <edge source="Chandler" target="Lowell" id="106" />
+      <edge source="Chandler" target="Brian" id="107" />
+      <edge source="Chandler" target="girl_1_10" id="108" />
+      <edge source="Chandler" target="Paolo" id="109" />
+      <edge source="Chandler" target="NoraBing" id="110" />
+      <edge source="Chandler" target="Roger" id="111" />
+      <edge source="Chandler" target="MrTribbiani" id="112" />
+      <edge source="Chandler" target="Ronni" id="113" />
+      <edge source="Chandler" target="Lorraine" id="114" />
+      <edge source="Chandler" target="MsTedlock" id="115" />
+      <edge source="Chandler" target="MrCostilick" id="116" />
+      <edge source="Chandler" target="Helen" id="117" />
+      <edge source="Chandler" target="Fran" id="118" />
+      <edge source="Chandler" target="Ursula" id="119" />
+      <edge source="Chandler" target="Nina" id="120" />
+      <edge source="Chandler" target="MrDouglas" id="121" />
+      <edge source="Chandler" target="receptionist_1_17" id="122" />
+      <edge source="Chandler" target="Samantha" id="123" />
+      <edge source="Chandler" target="SamanthasRoomate" id="124" />
+      <edge source="Chandler" target="Danielle" id="125" />
+      <edge source="Chandler" target="Marcel" id="126" />
+      <edge source="Chandler" target="Gerston" id="127" />
+      <edge source="Chandler" target="Petrie" id="128" />
+      <edge source="Chandler" target="Santos" id="129" />
+      <edge source="Chandler" target="Carol" id="130" />
+      <edge source="Chandler" target="nurse" id="131" />
+      <edge source="Chandler" target="Ben" id="132" />
+      <edge source="Chandler" target="Melanie" id="133" />
+      <edge source="Phoebe" target="Ross" id="134" />
+      <edge source="Phoebe" target="Rachel" id="135" />
+      <edge source="Phoebe" target="Paul" id="136" />
+      <edge source="Phoebe" target="Alan" id="137" />
+      <edge source="Phoebe" target="Lizzy" id="138" />
+      <edge source="Phoebe" target="pizzaGuy" id="139" />
+      <edge source="Phoebe" target="Tony" id="140" />
+      <edge source="Phoebe" target="Janice" id="141" />
+      <edge source="Phoebe" target="MrHeckles" id="142" />
+      <edge source="Phoebe" target="Paolo" id="143" />
+      <edge source="Phoebe" target="Max" id="144" />
+      <edge source="Phoebe" target="David" id="145" />
+      <edge source="Phoebe" target="comaGuy" id="146" />
+      <edge source="Phoebe" target="receptionist_1_12" id="147" />
+      <edge source="Phoebe" target="Roger" id="148" />
+      <edge source="Phoebe" target="MrTribbiani" id="149" />
+      <edge source="Phoebe" target="firemanDave" id="150" />
+      <edge source="Phoebe" target="Charlie" id="151" />
+      <edge source="Phoebe" target="Ed" id="152" />
+      <edge source="Phoebe" target="firemanCharlie" id="153" />
+      <edge source="Phoebe" target="firemanEd" id="154" />
+      <edge source="Phoebe" target="Steve" id="155" />
+      <edge source="Phoebe" target="H.HuntAsCustomer" id="156" />
+      <edge source="Phoebe" target="L.KenzleAsCustomer" id="157" />
+      <edge source="Phoebe" target="Ursula" id="158" />
+      <edge source="Phoebe" target="Betty" id="159" />
+      <edge source="Phoebe" target="auntIris" id="160" />
+      <edge source="Phoebe" target="LuisaGianetti" id="161" />
+      <edge source="Phoebe" target="Danielle" id="162" />
+      <edge source="Phoebe" target="Marcel" id="163" />
+      <edge source="Phoebe" target="Susan" id="164" />
+      <edge source="Phoebe" target="worker" id="165" />
+      <edge source="Phoebe" target="nurse" id="166" />
+      <edge source="Phoebe" target="Ben" id="167" />
+      <edge source="Ross" target="Rachel" id="168" />
+      <edge source="Ross" target="Paul" id="169" />
+      <edge source="Ross" target="Marsha" id="170" />
+      <edge source="Ross" target="Carol" id="171" />
+      <edge source="Ross" target="Judy" id="172" />
+      <edge source="Ross" target="Jack" id="173" />
+      <edge source="Ross" target="Susan" id="174" />
+      <edge source="Ross" target="DrOberman" id="175" />
+      <edge source="Ross" target="Alan" id="176" />
+      <edge source="Ross" target="nurseSizemore" id="177" />
+      <edge source="Ross" target="brattyBoy" id="178" />
+      <edge source="Ross" target="horribleWoman" id="179" />
+      <edge source="Ross" target="Paolo" id="180" />
+      <edge source="Ross" target="auntLillian" id="181" />
+      <edge source="Ross" target="Nana" id="182" />
+      <edge source="Ross" target="NanasNurse" id="183" />
+      <edge source="Ross" target="Marcel" id="184" />
+      <edge source="Ross" target="Janice" id="185" />
+      <edge source="Ross" target="NoraBing" id="186" />
+      <edge source="Ross" target="MrTribbiani" id="187" />
+      <edge source="Ross" target="Roger" id="188" />
+      <edge source="Ross" target="Kristen" id="189" />
+      <edge source="Ross" target="waiter" id="190" />
+      <edge source="Ross" target="Celia" id="191" />
+      <edge source="Ross" target="admissionsWoman" id="192" />
+      <edge source="Ross" target="DrMitchel" id="193" />
+      <edge source="Ross" target="LuisaGianetti" id="194" />
+      <edge source="Ross" target="MrHeckles" id="195" />
+      <edge source="Ross" target="Barry" id="196" />
+      <edge source="Ross" target="Danielle" id="197" />
+      <edge source="Ross" target="DrBalharar" id="198" />
+      <edge source="Ross" target="flightWoman" id="199" />
+      <edge source="Ross" target="DrFranzblau" id="200" />
+      <edge source="Ross" target="nurse" id="201" />
+      <edge source="Ross" target="Ben" id="202" />
+      <edge source="Ross" target="Julie" id="203" />
+      <edge source="Rachel" target="waitress" id="204" />
+      <edge source="Rachel" target="LeonardGreen" id="205" />
+      <edge source="Rachel" target="Paul" id="206" />
+      <edge source="Rachel" target="Barry" id="207" />
+      <edge source="Rachel" target="Robbie" id="208" />
+      <edge source="Rachel" target="Mindy" id="209" />
+      <edge source="Rachel" target="Alan" id="210" />
+      <edge source="Rachel" target="Joanne" id="211" />
+      <edge source="Rachel" target="Kiki" id="212" />
+      <edge source="Rachel" target="Leslie_1_4" id="213" />
+      <edge source="Rachel" target="pizzaGuy" id="214" />
+      <edge source="Rachel" target="visaCardGuy" id="215" />
+      <edge source="Rachel" target="horribleWoman" id="216" />
+      <edge source="Rachel" target="MrHeckles" id="217" />
+      <edge source="Rachel" target="Paolo" id="218" />
+      <edge source="Rachel" target="Terry" id="219" />
+      <edge source="Rachel" target="customer_1_9" id="220" />
+      <edge source="Rachel" target="NoraBing" id="221" />
+      <edge source="Rachel" target="Roger" id="222" />
+      <edge source="Rachel" target="Ronni" id="223" />
+      <edge source="Rachel" target="MrTribbiani" id="224" />
+      <edge source="Rachel" target="Janice" id="225" />
+      <edge source="Rachel" target="firemanDave" id="226" />
+      <edge source="Rachel" target="firemanCharlie" id="227" />
+      <edge source="Rachel" target="firemanEd" id="228" />
+      <edge source="Rachel" target="Steve" id="229" />
+      <edge source="Rachel" target="DrMitchel" id="230" />
+      <edge source="Rachel" target="DrRosen" id="231" />
+      <edge source="Rachel" target="admissionsWoman" id="232" />
+      <edge source="Rachel" target="auntIris" id="233" />
+      <edge source="Rachel" target="Barbara" id="234" />
+      <edge source="Rachel" target="customer_1_19" id="235" />
+      <edge source="Rachel" target="Marcel" id="236" />
+      <edge source="Rachel" target="LuisaGianetti" id="237" />
+      <edge source="Rachel" target="Danielle" id="238" />
+      <edge source="Rachel" target="fakeMonica" id="239" />
+      <edge source="Rachel" target="Carol" id="240" />
+      <edge source="Rachel" target="DrFranzblau" id="241" />
+      <edge source="Rachel" target="nurse" id="242" />
+      <edge source="Rachel" target="Ben" id="243" />
+      <edge source="Rachel" target="Melanie" id="244" />
+      <edge source="Rachel" target="flightRepres." id="245" />
+      <edge source="Rachel" target="Carl(date)" id="246" />
+      <edge source="LeonardGreen" target="DrMitchel" id="247" />
+      <edge source="Barry" target="Robbie" id="248" />
+      <edge source="Barry" target="Bernice" id="249" />
+      <edge source="Barry" target="Mindy" id="250" />
+      <edge source="Marsha" target="Carol" id="251" />
+      <edge source="Carol" target="Susan" id="252" />
+      <edge source="Carol" target="DrOberman" id="253" />
+      <edge source="Carol" target="Kristen" id="254" />
+      <edge source="Carol" target="DrFranzblau" id="255" />
+      <edge source="Judy" target="Jack" id="256" />
+      <edge source="Judy" target="auntLillian" id="257" />
+      <edge source="Judy" target="NanasNurse" id="258" />
+      <edge source="Jack" target="auntLillian" id="259" />
+      <edge source="Susan" target="DrOberman" id="260" />
+      <edge source="Susan" target="DrFranzblau" id="261" />
+      <edge source="Angela" target="Bob" id="262" />
+      <edge source="Andrea" target="girl_1_8" id="263" />
+      <edge source="Marcel" target="Celia" id="264" />
+      <edge source="Marcel" target="LuisaGianetti" id="265" />
+      <edge source="David" target="Max" id="266" />
+      <edge source="NoraBing" target="JayLeno" id="267" />
+      <edge source="Roger" target="MrTribbiani" id="268" />
+      <edge source="MrTribbiani" target="Ronni" id="269" />
+      <edge source="firemanDave" target="firemanCharlie" id="270" />
+      <edge source="firemanDave" target="firemanEd" id="271" />
+      <edge source="firemanCharlie" target="firemanEd" id="272" />
+      <edge source="Nina" target="MrDouglas" id="273" />
+      <edge source="H.HuntAsCustomer" target="L.KenzleAsCustomer" id="274" />
+      <edge source="DrMitchel" target="DrRosen" id="275" />
+      <edge source="teacher" target="fakeMonica" id="276" />
+      <edge source="Lydia" target="Lydiasmother" id="277" />
+      <edge source="Lydia" target="nurse" id="278" />
+      <edge source="Lydia" target="babysfather" id="279" />
+      <edge source="flightRepres." target="airlinePass." id="280" />
+    </edges>
+  </graph>
+</gexf>

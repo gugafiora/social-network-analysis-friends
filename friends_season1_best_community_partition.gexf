@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
-<gexf xmlns:viz="http://www.gexf.net/1.2draft/viz" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
-  <meta lastmodifieddate="2026-04-20">
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2026-04-30">
     <creator>NetworkX 3.6.1</creator>
   </meta>
   <graph defaultedgetype="undirected" mode="static" name="">
@@ -9,883 +9,631 @@
     </attributes>
     <nodes>
       <node id="Monica" label="Monica">
-        <viz:size value="60.94452746854648" />
-        <viz:position x="1400.9052258797667" y="-2425.97694716458" z="0.0" />
         <attvalues>
           <attvalue for="0" value="5" />
         </attvalues>
       </node>
       <node id="Joey" label="Joey">
-        <viz:size value="56.35786553761644" />
-        <viz:position x="2820.853689480424" y="-10.537303471739321" z="0.0" />
         <attvalues>
           <attvalue for="0" value="0" />
         </attvalues>
       </node>
       <node id="Chandler" label="Chandler">
-        <viz:size value="57.839597987411835" />
-        <viz:position x="1381.5441798151737" y="2404.7592263034435" z="0.0" />
         <attvalues>
           <attvalue for="0" value="1" />
         </attvalues>
       </node>
       <node id="Phoebe" label="Phoebe">
-        <viz:size value="55.19726014543145" />
-        <viz:position x="-2799.9535799891655" y="-0.009903067351896463" z="0.0" />
         <attvalues>
           <attvalue for="0" value="3" />
         </attvalues>
       </node>
       <node id="Ross" label="Ross">
-        <viz:size value="56.35786553761644" />
-        <viz:position x="-1407.2856848379192" y="-2432.6690059836706" z="0.0" />
         <attvalues>
           <attvalue for="0" value="4" />
         </attvalues>
       </node>
       <node id="Rachel" label="Rachel">
-        <viz:size value="59.25537550532244" />
-        <viz:position x="-1387.9967010320092" y="2430.5426646632977" z="0.0" />
         <attvalues>
           <attvalue for="0" value="2" />
         </attvalues>
       </node>
       <node id="waitress" label="waitress">
-        <viz:size value="32.78822509939086" />
-        <viz:position x="-1187.1427118858035" y="2550.421822788854" z="0.0" />
         <attvalues>
           <attvalue for="0" value="2" />
         </attvalues>
       </node>
       <node id="LeonardGreen" label="LeonardGreen">
-        <viz:size value="34.31384387633061" />
-        <viz:position x="1630.2934846684534" y="-2804.5670727582497" z="0.0" />
         <attvalues>
           <attvalue for="0" value="5" />
         </attvalues>
       </node>
       <node id="Paul" label="Paul">
-        <viz:size value="37.757550765359255" />
-        <viz:position x="-1350.6959049588029" y="2669.700957413567" z="0.0" />
         <attvalues>
           <attvalue for="0" value="2" />
         </attvalues>
       </node>
       <node id="Barry" label="Barry">
-        <viz:size value="36.73312629199899" />
-        <viz:position x="-1346.261313418536" y="2136.564485710406" z="0.0" />
         <attvalues>
           <attvalue for="0" value="2" />
         </attvalues>
       </node>
       <node id="Franny" label="Franny">
-        <viz:size value="30.8" />
-        <viz:position x="1662.5409505050668" y="-1996.7563096203753" z="0.0" />
         <attvalues>
           <attvalue for="0" value="5" />
         </attvalues>
       </node>
       <node id="Marsha" label="Marsha">
-        <viz:size value="32.78822509939086" />
-        <viz:position x="-1281.9126165724015" y="-2018.7088972043994" z="0.0" />
         <attvalues>
           <attvalue for="0" value="4" />
         </attvalues>
       </node>
       <node id="Carol" label="Carol">
-        <viz:size value="41.178932768808224" />
-        <viz:position x="-1137.445903066205" y="-2245.626214008704" z="0.0" />
         <attvalues>
           <attvalue for="0" value="4" />
         </attvalues>
       </node>
       <node id="Judy" label="Judy">
-        <viz:size value="36.73312629199899" />
-        <viz:position x="-1680.648937672114" y="-2780.640402457066" z="0.0" />
         <attvalues>
           <attvalue for="0" value="4" />
         </attvalues>
       </node>
       <node id="Jack" label="Jack">
-        <viz:size value="36.73312629199899" />
-        <viz:position x="-1717.0665135140066" y="-2600.572999317632" z="0.0" />
         <attvalues>
           <attvalue for="0" value="4" />
         </attvalues>
       </node>
       <node id="Susan" label="Susan">
-        <viz:size value="36.73312629199899" />
-        <viz:position x="-953.1651630687535" y="-2390.0974632271345" z="0.0" />
         <attvalues>
           <attvalue for="0" value="4" />
         </attvalues>
       </node>
       <node id="Robbie" label="Robbie">
-        <viz:size value="32.78822509939086" />
-        <viz:position x="-1312.1058723666422" y="2231.1556677566587" z="0.0" />
         <attvalues>
           <attvalue for="0" value="2" />
         </attvalues>
       </node>
       <node id="DrOberman" label="DrOberman">
-        <viz:size value="34.31384387633061" />
-        <viz:position x="-952.4498025626741" y="-2226.6607619470233" z="0.0" />
         <attvalues>
           <attvalue for="0" value="4" />
         </attvalues>
       </node>
       <node id="Mindy" label="Mindy">
-        <viz:size value="34.31384387633061" />
-        <viz:position x="-1409.1322721222089" y="2216.48308537029" z="0.0" />
         <attvalues>
           <attvalue for="0" value="2" />
         </attvalues>
       </node>
       <node id="Paula" label="Paula">
-        <viz:size value="30.8" />
-        <viz:position x="1276.8329555185403" y="-2831.8407916415513" z="0.0" />
         <attvalues>
           <attvalue for="0" value="5" />
         </attvalues>
       </node>
       <node id="Alan" label="Alan">
-        <viz:size value="37.757550765359255" />
-        <viz:position x="-1502.9527247732024" y="2559.8250754580276" z="0.0" />
         <attvalues>
           <attvalue for="0" value="2" />
         </attvalues>
       </node>
       <node id="Lizzy" label="Lizzy">
-        <viz:size value="30.8" />
-        <viz:position x="-2970.7832008397418" y="484.985752897914" z="0.0" />
         <attvalues>
           <attvalue for="0" value="3" />
         </attvalues>
       </node>
       <node id="Allan" label="Allan">
-        <viz:size value="32.78822509939086" />
-        <viz:position x="1037.839392908186" y="-2140.823539276624" z="0.0" />
         <attvalues>
           <attvalue for="0" value="5" />
         </attvalues>
       </node>
       <node id="Joanne" label="Joanne">
-        <viz:size value="30.8" />
-        <viz:position x="-1622.1873673739983" y="2412.7456532798337" z="0.0" />
         <attvalues>
           <attvalue for="0" value="2" />
         </attvalues>
       </node>
       <node id="Kiki" label="Kiki">
-        <viz:size value="30.8" />
-        <viz:position x="-1590.7794436448196" y="2502.5216726651" z="0.0" />
         <attvalues>
           <attvalue for="0" value="2" />
         </attvalues>
       </node>
       <node id="Leslie_1_4" label="Leslie_1_4">
-        <viz:size value="30.8" />
-        <viz:position x="-1448.1939533409143" y="2646.8678730169077" z="0.0" />
         <attvalues>
           <attvalue for="0" value="2" />
         </attvalues>
       </node>
       <node id="nurseSizemore" label="nurseSizemore">
-        <viz:size value="34.31384387633061" />
-        <viz:position x="2639.4378354366954" y="-61.54680373738783" z="0.0" />
         <attvalues>
           <attvalue for="0" value="0" />
         </attvalues>
       </node>
       <node id="pizzaGuy" label="pizzaGuy">
-        <viz:size value="34.31384387633061" />
-        <viz:position x="-2955.021882736279" y="-490.0495564786646" z="0.0" />
         <attvalues>
           <attvalue for="0" value="3" />
         </attvalues>
       </node>
       <node id="brattyBoy" label="brattyBoy">
-        <viz:size value="30.8" />
-        <viz:position x="-992.8901971985326" y="-2720.95266621856" z="0.0" />
         <attvalues>
           <attvalue for="0" value="4" />
         </attvalues>
       </node>
       <node id="neighbor" label="neighbor">
-        <viz:size value="30.8" />
-        <viz:position x="1568.204691044047" y="2571.6889791661633" z="0.0" />
         <attvalues>
           <attvalue for="0" value="1" />
         </attvalues>
       </node>
       <node id="visaCardGuy" label="visaCardGuy">
-        <viz:size value="32.78822509939086" />
-        <viz:position x="-1243.2795019558052" y="2631.7009695180595" z="0.0" />
         <attvalues>
           <attvalue for="0" value="2" />
         </attvalues>
       </node>
       <node id="Angela" label="Angela">
-        <viz:size value="34.31384387633061" />
-        <viz:position x="2918.6733010523335" y="-231.0063258221367" z="0.0" />
         <attvalues>
           <attvalue for="0" value="0" />
         </attvalues>
       </node>
       <node id="Bob" label="Bob">
-        <viz:size value="34.31384387633061" />
-        <viz:position x="2849.2233305564223" y="-250.29350619928852" z="0.0" />
         <attvalues>
           <attvalue for="0" value="0" />
         </attvalues>
       </node>
       <node id="Janice" label="Janice">
-        <viz:size value="37.757550765359255" />
-        <viz:position x="1581.0855989088263" y="2382.155370242729" z="0.0" />
         <attvalues>
           <attvalue for="0" value="1" />
         </attvalues>
       </node>
       <node id="Tony" label="Tony">
-        <viz:size value="30.8" />
-        <viz:position x="-3170.3566168226716" y="341.93629212335657" z="0.0" />
         <attvalues>
           <attvalue for="0" value="3" />
         </attvalues>
       </node>
       <node id="horribleWoman" label="horribleWoman">
-        <viz:size value="32.78822509939086" />
-        <viz:position x="-1154.0184337548362" y="2354.2208940640858" z="0.0" />
         <attvalues>
           <attvalue for="0" value="2" />
         </attvalues>
       </node>
       <node id="actress(Eva)" label="actress(Eva)">
-        <viz:size value="30.8" />
-        <viz:position x="2696.030397978008" y="71.61084190111953" z="0.0" />
         <attvalues>
           <attvalue for="0" value="0" />
         </attvalues>
       </node>
       <node id="Aurora" label="Aurora">
-        <viz:size value="30.8" />
-        <viz:position x="1207.5502091557012" y="2655.3888899956464" z="0.0" />
         <attvalues>
           <attvalue for="0" value="1" />
         </attvalues>
       </node>
       <node id="director_1_6" label="director_1_6">
-        <viz:size value="30.8" />
-        <viz:position x="2667.775330251192" y="-164.68502780231088" z="0.0" />
         <attvalues>
           <attvalue for="0" value="0" />
         </attvalues>
       </node>
       <node id="JillGoodacre" label="JillGoodacre">
-        <viz:size value="30.8" />
-        <viz:position x="1057.7729797421314" y="2461.245658188154" z="0.0" />
         <attvalues>
           <attvalue for="0" value="1" />
         </attvalues>
       </node>
       <node id="MrHeckles" label="MrHeckles">
-        <viz:size value="35.6" />
-        <viz:position x="1453.404568883154" y="-2920.620114368835" z="0.0" />
         <attvalues>
           <attvalue for="0" value="5" />
         </attvalues>
       </node>
       <node id="Paolo" label="Paolo">
-        <viz:size value="37.757550765359255" />
-        <viz:position x="2783.2989804015583" y="-156.95012146573254" z="0.0" />
         <attvalues>
           <attvalue for="0" value="0" />
         </attvalues>
       </node>
       <node id="Shelly" label="Shelly">
-        <viz:size value="30.8" />
-        <viz:position x="1314.0172308910398" y="2106.0650075047583" z="0.0" />
         <attvalues>
           <attvalue for="0" value="1" />
         </attvalues>
       </node>
       <node id="auntLillian" label="auntLillian">
-        <viz:size value="35.6" />
-        <viz:position x="-1837.7685021453847" y="-2695.839633584331" z="0.0" />
         <attvalues>
           <attvalue for="0" value="4" />
         </attvalues>
       </node>
       <node id="NanasNurse" label="NanasNurse">
-        <viz:size value="34.31384387633061" />
-        <viz:position x="-1546.3044813607623" y="-2886.992356510931" z="0.0" />
         <attvalues>
           <attvalue for="0" value="4" />
         </attvalues>
       </node>
       <node id="Nana" label="Nana">
-        <viz:size value="32.78822509939086" />
-        <viz:position x="1395.649036701745" y="-1924.871130596428" z="0.0" />
         <attvalues>
           <attvalue for="0" value="5" />
         </attvalues>
       </node>
       <node id="Andrea" label="Andrea">
-        <viz:size value="32.78822509939086" />
-        <viz:position x="1662.1932691157056" y="2716.3422212874784" z="0.0" />
         <attvalues>
           <attvalue for="0" value="1" />
         </attvalues>
       </node>
       <node id="girl_1_8" label="girl_1_8">
-        <viz:size value="30.8" />
-        <viz:position x="1848.8057594532097" y="2924.871130596428" z="0.0" />
         <attvalues>
           <attvalue for="0" value="1" />
         </attvalues>
       </node>
       <node id="Lowell" label="Lowell">
-        <viz:size value="30.8" />
-        <viz:position x="1107.2477687290232" y="2587.787512566192" z="0.0" />
         <attvalues>
           <attvalue for="0" value="1" />
         </attvalues>
       </node>
       <node id="Brian" label="Brian">
-        <viz:size value="30.8" />
-        <viz:position x="1241.8371046154734" y="2262.785894128994" z="0.0" />
         <attvalues>
           <attvalue for="0" value="1" />
         </attvalues>
       </node>
       <node id="Terry" label="Terry">
-        <viz:size value="30.8" />
-        <viz:position x="-1510.2001916503561" y="2356.4834789579622" z="0.0" />
         <attvalues>
           <attvalue for="0" value="2" />
         </attvalues>
       </node>
       <node id="customer_1_9" label="customer_1_9">
-        <viz:size value="30.8" />
-        <viz:position x="-1322.3599446972323" y="2565.937783443008" z="0.0" />
         <attvalues>
           <attvalue for="0" value="2" />
         </attvalues>
       </node>
       <node id="obsessionGirl" label="obsessionGirl">
-        <viz:size value="30.8" />
-        <viz:position x="3029.4944175206933" y="117.36216514396827" z="0.0" />
         <attvalues>
           <attvalue for="0" value="0" />
         </attvalues>
       </node>
       <node id="Marcel" label="Marcel">
-        <viz:size value="39.576450198781714" />
-        <viz:position x="-1720.8727617039117" y="-2088.7863742104432" z="0.0" />
         <attvalues>
           <attvalue for="0" value="4" />
         </attvalues>
       </node>
       <node id="David" label="David">
-        <viz:size value="32.78822509939086" />
-        <viz:position x="-2450.4251081129223" y="-49.83257387703867" z="0.0" />
         <attvalues>
           <attvalue for="0" value="3" />
         </attvalues>
       </node>
       <node id="Max" label="Max">
-        <viz:size value="32.78822509939086" />
-        <viz:position x="-2512.7433605855394" y="-209.7157011066938" z="0.0" />
         <attvalues>
           <attvalue for="0" value="3" />
         </attvalues>
       </node>
       <node id="Sandy_date" label="Sandy_date">
-        <viz:size value="32.78822509939086" />
-        <viz:position x="2894.1425952001705" y="126.03533043929033" z="0.0" />
         <attvalues>
           <attvalue for="0" value="0" />
         </attvalues>
       </node>
       <node id="funBobby" label="funBobby">
-        <viz:size value="32.78822509939086" />
-        <viz:position x="2981.311108852343" y="15.95927933284857" z="0.0" />
         <attvalues>
           <attvalue for="0" value="0" />
         </attvalues>
       </node>
       <node id="kids" label="kids">
-        <viz:size value="30.8" />
-        <viz:position x="3055.4108883511567" y="-83.10869011591586" z="0.0" />
         <attvalues>
           <attvalue for="0" value="0" />
         </attvalues>
       </node>
       <node id="girl_1_10" label="girl_1_10">
-        <viz:size value="30.8" />
-        <viz:position x="1103.7984060377162" y="2228.2371562940125" z="0.0" />
         <attvalues>
           <attvalue for="0" value="1" />
         </attvalues>
       </node>
       <node id="comaGuy" label="comaGuy">
-        <viz:size value="32.78822509939086" />
-        <viz:position x="-2711.660235936438" y="-496.9241956902236" z="0.0" />
         <attvalues>
           <attvalue for="0" value="3" />
         </attvalues>
       </node>
       <node id="NoraBing" label="NoraBing">
-        <viz:size value="36.73312629199899" />
-        <viz:position x="2533.9784268705066" y="-149.68610622622236" z="0.0" />
         <attvalues>
           <attvalue for="0" value="0" />
         </attvalues>
       </node>
       <node id="JayLeno" label="JayLeno">
-        <viz:size value="30.8" />
-        <viz:position x="2343.5734065065676" y="-244.3892152295548" z="0.0" />
         <attvalues>
           <attvalue for="0" value="0" />
         </attvalues>
       </node>
       <node id="Syl" label="Syl">
-        <viz:size value="30.8" />
-        <viz:position x="925.8454751432891" y="-2314.1686306241954" z="0.0" />
         <attvalues>
           <attvalue for="0" value="5" />
         </attvalues>
       </node>
       <node id="receptionist_1_12" label="receptionist_1_12">
-        <viz:size value="30.8" />
-        <viz:position x="-2621.6916046864426" y="264.8182931085392" z="0.0" />
         <attvalues>
           <attvalue for="0" value="3" />
         </attvalues>
       </node>
       <node id="Roger" label="Roger">
-        <viz:size value="38.69960629311004" />
-        <viz:position x="1471.8427625975605" y="2196.6386577042254" z="0.0" />
         <attvalues>
           <attvalue for="0" value="1" />
         </attvalues>
       </node>
       <node id="MrTribbiani" label="MrTribbiani">
-        <viz:size value="39.576450198781714" />
-        <viz:position x="1564.5081141011333" y="2152.590897645872" z="0.0" />
         <attvalues>
           <attvalue for="0" value="1" />
         </attvalues>
       </node>
       <node id="Ronni" label="Ronni">
-        <viz:size value="36.73312629199899" />
-        <viz:position x="1639.185287294426" y="2218.672756712185" z="0.0" />
         <attvalues>
           <attvalue for="0" value="1" />
         </attvalues>
       </node>
       <node id="GloriaTribbiani" label="GloriaTribbiani">
-        <viz:size value="30.8" />
-        <viz:position x="2960.5235494239387" y="193.36775593710527" z="0.0" />
         <attvalues>
           <attvalue for="0" value="0" />
         </attvalues>
       </node>
       <node id="Kristen" label="Kristen">
-        <viz:size value="32.78822509939086" />
-        <viz:position x="-1360.101120420191" y="-2171.129333045731" z="0.0" />
         <attvalues>
           <attvalue for="0" value="4" />
         </attvalues>
       </node>
       <node id="Lorraine" label="Lorraine">
-        <viz:size value="32.78822509939086" />
-        <viz:position x="3013.3978648767043" y="-177.63323241259505" z="0.0" />
         <attvalues>
           <attvalue for="0" value="0" />
         </attvalues>
       </node>
       <node id="waiter" label="waiter">
-        <viz:size value="30.8" />
-        <viz:position x="-1341.1788196835537" y="-2908.3345869846717" z="0.0" />
         <attvalues>
           <attvalue for="0" value="4" />
         </attvalues>
       </node>
       <node id="firemanDave" label="firemanDave">
-        <viz:size value="36.73312629199899" />
-        <viz:position x="-3263.691861895405" y="130.08519610828125" z="0.0" />
         <attvalues>
           <attvalue for="0" value="3" />
         </attvalues>
       </node>
       <node id="Charlie" label="Charlie">
-        <viz:size value="32.78822509939086" />
-        <viz:position x="-2309.7869133668905" y="-205.1300869008678" z="0.0" />
         <attvalues>
           <attvalue for="0" value="3" />
         </attvalues>
       </node>
       <node id="Ed" label="Ed">
-        <viz:size value="32.78822509939086" />
-        <viz:position x="-2300.0" y="89.04157738953434" z="0.0" />
         <attvalues>
           <attvalue for="0" value="3" />
         </attvalues>
       </node>
       <node id="firemanCharlie" label="firemanCharlie">
-        <viz:size value="36.73312629199899" />
-        <viz:position x="-3292.859709016827" y="-35.12409027619822" z="0.0" />
         <attvalues>
           <attvalue for="0" value="3" />
         </attvalues>
       </node>
       <node id="firemanEd" label="firemanEd">
-        <viz:size value="36.73312629199899" />
-        <viz:position x="-3147.2145818377053" y="17.858420472189625" z="0.0" />
         <attvalues>
           <attvalue for="0" value="3" />
         </attvalues>
       </node>
       <node id="MsTedlock" label="MsTedlock">
-        <viz:size value="30.8" />
-        <viz:position x="1077.6279605108289" y="2344.0230661140195" z="0.0" />
         <attvalues>
           <attvalue for="0" value="1" />
         </attvalues>
       </node>
       <node id="Celia" label="Celia">
-        <viz:size value="32.78822509939086" />
-        <viz:position x="-1822.1032374697345" y="-2216.9783882067304" z="0.0" />
         <attvalues>
           <attvalue for="0" value="4" />
         </attvalues>
       </node>
       <node id="Wendy" label="Wendy">
-        <viz:size value="30.8" />
-        <viz:position x="1480.5538055998761" y="-2139.094976219015" z="0.0" />
         <attvalues>
           <attvalue for="0" value="5" />
         </attvalues>
       </node>
       <node id="MrCostilick" label="MrCostilick">
-        <viz:size value="30.8" />
-        <viz:position x="1429.8609755133014" y="2072.8195915997517" z="0.0" />
         <attvalues>
           <attvalue for="0" value="1" />
         </attvalues>
       </node>
       <node id="Helen" label="Helen">
-        <viz:size value="30.8" />
-        <viz:position x="1196.494257593253" y="2130.0246774825027" z="0.0" />
         <attvalues>
           <attvalue for="0" value="1" />
         </attvalues>
       </node>
       <node id="Steve" label="Steve">
-        <viz:size value="34.31384387633061" />
-        <viz:position x="-2952.651764333493" y="290.26589203213916" z="0.0" />
         <attvalues>
           <attvalue for="0" value="3" />
         </attvalues>
       </node>
       <node id="Fran" label="Fran">
-        <viz:size value="30.8" />
-        <viz:position x="1198.2880808202026" y="2481.865530432681" z="0.0" />
         <attvalues>
           <attvalue for="0" value="1" />
         </attvalues>
       </node>
       <node id="Ursula" label="Ursula">
-        <viz:size value="34.31384387633061" />
-        <viz:position x="-2389.7574942367764" y="273.02480722113114" z="0.0" />
         <attvalues>
           <attvalue for="0" value="3" />
         </attvalues>
       </node>
       <node id="Nina" label="Nina">
-        <viz:size value="32.78822509939086" />
-        <viz:position x="1460.2047443259619" y="2695.1828450082107" z="0.0" />
         <attvalues>
           <attvalue for="0" value="1" />
         </attvalues>
       </node>
       <node id="MrDouglas" label="MrDouglas">
-        <viz:size value="32.78822509939086" />
-        <viz:position x="1395.507776771501" y="2621.145940131366" z="0.0" />
         <attvalues>
           <attvalue for="0" value="1" />
         </attvalues>
       </node>
       <node id="H.HuntAsCustomer" label="H.HuntAsCustomer">
-        <viz:size value="32.78822509939086" />
-        <viz:position x="-3093.7808432967836" y="-336.3868617854836" z="0.0" />
         <attvalues>
           <attvalue for="0" value="3" />
         </attvalues>
       </node>
       <node id="L.KenzleAsCustomer" label="L.KenzleAsCustomer">
-        <viz:size value="32.78822509939086" />
-        <viz:position x="-3218.8485920455664" y="-262.133300707591" z="0.0" />
         <attvalues>
           <attvalue for="0" value="3" />
         </attvalues>
       </node>
       <node id="receptionist_1_17" label="receptionist_1_17">
-        <viz:size value="32.78822509939086" />
-        <viz:position x="1185.1173052438173" y="-2004.7499751574833" z="0.0" />
         <attvalues>
           <attvalue for="0" value="5" />
         </attvalues>
       </node>
       <node id="admissionsWoman" label="admissionsWoman">
-        <viz:size value="34.31384387633061" />
-        <viz:position x="-1221.7423725623605" y="2281.328453377994" z="0.0" />
         <attvalues>
           <attvalue for="0" value="2" />
         </attvalues>
       </node>
       <node id="DrMitchel" label="DrMitchel">
-        <viz:size value="36.73312629199899" />
-        <viz:position x="1761.3698884653422" y="-2709.0713935831213" z="0.0" />
         <attvalues>
           <attvalue for="0" value="5" />
         </attvalues>
       </node>
       <node id="DrRosen" label="DrRosen">
-        <viz:size value="34.31384387633061" />
-        <viz:position x="1834.1923810975086" y="-2563.6521154688844" z="0.0" />
         <attvalues>
           <attvalue for="0" value="5" />
         </attvalues>
       </node>
       <node id="Betty" label="Betty">
-        <viz:size value="30.8" />
-        <viz:position x="-2756.7745759290033" y="486.8674610411391" z="0.0" />
         <attvalues>
           <attvalue for="0" value="3" />
         </attvalues>
       </node>
       <node id="PhoebeAsUrsula" label="PhoebeAsUrsula">
-        <viz:size value="30.8" />
-        <viz:position x="2738.321983937185" y="-245.04923402332707" z="0.0" />
         <attvalues>
           <attvalue for="0" value="0" />
         </attvalues>
       </node>
       <node id="auntIris" label="auntIris">
-        <viz:size value="34.31384387633061" />
-        <viz:position x="-2825.71185860059" y="-321.70051592932805" z="0.0" />
         <attvalues>
           <attvalue for="0" value="3" />
         </attvalues>
       </node>
       <node id="Barbara" label="Barbara">
-        <viz:size value="30.8" />
-        <viz:position x="-1515.9946727697925" y="2239.1989173061434" z="0.0" />
         <attvalues>
           <attvalue for="0" value="2" />
         </attvalues>
       </node>
       <node id="customer_1_19" label="customer_1_19">
-        <viz:size value="30.8" />
-        <viz:position x="-1241.7545284585244" y="2411.406731945471" z="0.0" />
         <attvalues>
           <attvalue for="0" value="2" />
         </attvalues>
       </node>
       <node id="LuisaGianetti" label="LuisaGianetti">
-        <viz:size value="36.73312629199899" />
-        <viz:position x="-1593.2463969901128" y="-1976.778316829555" z="0.0" />
         <attvalues>
           <attvalue for="0" value="4" />
         </attvalues>
       </node>
       <node id="Samantha" label="Samantha">
-        <viz:size value="32.78822509939086" />
-        <viz:position x="3074.1436659997457" y="18.487066100661124" z="0.0" />
         <attvalues>
           <attvalue for="0" value="0" />
         </attvalues>
       </node>
       <node id="SamanthasRoomate" label="SamanthasRoomate">
-        <viz:size value="32.78822509939086" />
-        <viz:position x="2587.4926521259663" y="23.37506236441725" z="0.0" />
         <attvalues>
           <attvalue for="0" value="0" />
         </attvalues>
       </node>
       <node id="Danielle" label="Danielle">
-        <viz:size value="37.757550765359255" />
-        <viz:position x="1793.6153755180421" y="-2177.861944419807" z="0.0" />
         <attvalues>
           <attvalue for="0" value="5" />
         </attvalues>
       </node>
       <node id="Bernice" label="Bernice">
-        <viz:size value="30.8" />
-        <viz:position x="-1314.915982695149" y="1924.8711305964282" z="0.0" />
         <attvalues>
           <attvalue for="0" value="2" />
         </attvalues>
       </node>
       <node id="Sydney" label="Sydney">
-        <viz:size value="32.78822509939086" />
-        <viz:position x="2621.2411694425523" y="128.80895603692147" z="0.0" />
         <attvalues>
           <attvalue for="0" value="0" />
         </attvalues>
       </node>
       <node id="teacher" label="teacher">
-        <viz:size value="32.78822509939086" />
-        <viz:position x="928.2916526782367" y="-2576.3769853059443" z="0.0" />
         <attvalues>
           <attvalue for="0" value="5" />
         </attvalues>
       </node>
       <node id="fakeMonica" label="fakeMonica">
-        <viz:size value="34.31384387633061" />
-        <viz:position x="1084.5705357417576" y="-2528.7898641660904" z="0.0" />
         <attvalues>
           <attvalue for="0" value="5" />
         </attvalues>
       </node>
       <node id="DrBalharar" label="DrBalharar">
-        <viz:size value="30.8" />
-        <viz:position x="-1112.271003664293" y="-1976.5450024821425" z="0.0" />
         <attvalues>
           <attvalue for="0" value="4" />
         </attvalues>
       </node>
       <node id="creditCardGuy" label="creditCardGuy">
-        <viz:size value="30.8" />
-        <viz:position x="1874.7485374144458" y="-2361.2765083353756" z="0.0" />
         <attvalues>
           <attvalue for="0" value="5" />
         </attvalues>
       </node>
       <node id="flightWoman" label="flightWoman">
-        <viz:size value="30.8" />
-        <viz:position x="-1166.6849656994286" y="-2833.790168219426" z="0.0" />
         <attvalues>
           <attvalue for="0" value="4" />
         </attvalues>
       </node>
       <node id="director_1_21" label="director_1_21">
-        <viz:size value="30.8" />
-        <viz:position x="2939.615427828453" y="-117.47221606366232" z="0.0" />
         <attvalues>
           <attvalue for="0" value="0" />
         </attvalues>
       </node>
       <node id="Ethan" label="Ethan">
-        <viz:size value="30.8" />
-        <viz:position x="1074.2294280327765" y="-2802.3109214327123" z="0.0" />
         <attvalues>
           <attvalue for="0" value="5" />
         </attvalues>
       </node>
       <node id="Gerston" label="Gerston">
-        <viz:size value="30.8" />
-        <viz:position x="1704.7081672873358" y="2344.2928342581254" z="0.0" />
         <attvalues>
           <attvalue for="0" value="1" />
         </attvalues>
       </node>
       <node id="Petrie" label="Petrie">
-        <viz:size value="30.8" />
-        <viz:position x="1306.869755461358" y="2723.2357897128704" z="0.0" />
         <attvalues>
           <attvalue for="0" value="1" />
         </attvalues>
       </node>
       <node id="Santos" label="Santos">
-        <viz:size value="30.8" />
-        <viz:position x="1680.8449202150962" y="2490.216370642028" z="0.0" />
         <attvalues>
           <attvalue for="0" value="1" />
         </attvalues>
       </node>
       <node id="DrFranzblau" label="DrFranzblau">
-        <viz:size value="35.6" />
-        <viz:position x="-1076.6038923700412" y="-2485.224909398584" z="0.0" />
         <attvalues>
           <attvalue for="0" value="4" />
         </attvalues>
       </node>
       <node id="Lydia" label="Lydia">
-        <viz:size value="35.6" />
-        <viz:position x="2765.1421370378575" y="287.52529370393313" z="0.0" />
         <attvalues>
           <attvalue for="0" value="0" />
         </attvalues>
       </node>
       <node id="Lydiasmother" label="Lydiasmother">
-        <viz:size value="32.78822509939086" />
-        <viz:position x="2728.584986335578" y="194.2129894951336" z="0.0" />
         <attvalues>
           <attvalue for="0" value="0" />
         </attvalues>
       </node>
       <node id="nurse" label="nurse">
-        <viz:size value="38.69960629311004" />
-        <viz:position x="2829.7987713170282" y="215.61304211447467" z="0.0" />
         <attvalues>
           <attvalue for="0" value="0" />
         </attvalues>
       </node>
       <node id="babysfather" label="babysfather">
-        <viz:size value="30.8" />
-        <viz:position x="2728.5340832169154" y="500.0" z="0.0" />
         <attvalues>
           <attvalue for="0" value="0" />
         </attvalues>
       </node>
       <node id="worker" label="worker">
-        <viz:size value="30.8" />
-        <viz:position x="-2541.8031345041113" y="445.7338834863054" z="0.0" />
         <attvalues>
           <attvalue for="0" value="3" />
         </attvalues>
       </node>
       <node id="Ben" label="Ben">
-        <viz:size value="37.757550765359255" />
-        <viz:position x="-2514.4830812276427" y="-417.6107900610815" z="0.0" />
         <attvalues>
           <attvalue for="0" value="3" />
         </attvalues>
       </node>
       <node id="Melanie" label="Melanie">
-        <viz:size value="34.31384387633061" />
-        <viz:position x="-1600.3012543251164" y="2308.410317674874" z="0.0" />
         <attvalues>
           <attvalue for="0" value="2" />
         </attvalues>
       </node>
       <node id="flightRepres." label="flightRepres.">
-        <viz:size value="32.78822509939086" />
-        <viz:position x="-1611.1501153374786" y="2651.8910812044055" z="0.0" />
         <attvalues>
           <attvalue for="0" value="2" />
         </attvalues>
       </node>
       <node id="airlinePass." label="airlinePass.">
-        <viz:size value="30.8" />
-        <viz:position x="-1761.2256273965872" y="2800.1109805486285" z="0.0" />
         <attvalues>
           <attvalue for="0" value="2" />
         </attvalues>
       </node>
       <node id="Carl(date)" label="Carl(date)">
-        <viz:size value="30.8" />
-        <viz:position x="-1145.6091094798096" y="2464.775176361417" z="0.0" />
         <attvalues>
           <attvalue for="0" value="2" />
         </attvalues>
       </node>
       <node id="Julie" label="Julie">
-        <viz:size value="30.8" />
-        <viz:position x="-1900.0000000000014" y="-2416.2240014953836" z="0.0" />
         <attvalues>
           <attvalue for="0" value="4" />
         </attvalues>
